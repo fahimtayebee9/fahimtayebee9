@@ -8,7 +8,9 @@ Full Stack Web Developer (Laravel & VueJS)
 *   ✉️  You can contact me at [contact@fahimtayebee.com](mailto:contact@fahimtayebee.com)
 *   🚀  I'm currently working on [Employee Management System - Saas Development](http://ems.techrajshahi.com)
 *   🧠  I'm learning Advanced VueJs Component Handling
-*   🤝  I'm open to collaborating on Laravel<a href="https://www.github.com/fahimtayebee9" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/fahimtayebee9?logo=github&style=for-the-badge&color=6366f1&labelColor=312e81"/></a>
+*   🤝  I'm open to collaborating on Laravel
+  
+<a href="https://www.github.com/fahimtayebee9" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/fahimtayebee9?logo=github&style=for-the-badge&color=6366f1&labelColor=312e81"/></a>
 
 ### Skills 
 <p align="left">
